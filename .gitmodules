@@ -1,0 +1,9 @@
+[submodule "colors/start/iceberg"]
+	path = colors/start/iceberg
+	url = git@github.com:cocopon/iceberg.vim.git
+[submodule "plugins/start/lightline"]
+	path = plugins/start/lightline
+	url = git@github.com:itchyny/lightline.vim.git
+[submodule "plugins/start/coc"]
+	path = plugins/start/coc
+	url = git@github.com:neoclide/coc.nvim.git
